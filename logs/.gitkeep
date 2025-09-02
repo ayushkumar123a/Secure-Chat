@@ -10,4 +10,12 @@
 - Messages now encrypted end-to-end.
 - Added logging for server and client.
 - Tested secure communication successfully.
+## Day 3
+- Fixed multi-client communication (server now supports multiple clients at once).
+- Enabled server participation (server can send messages too).
+- Added private messaging using `@username`.
+- Implemented AES encryption (EAX mode) for end-to-end security.
+- Finalized clean server and client code.
+- Removed chat logging to preserve user privacy.
+
 
