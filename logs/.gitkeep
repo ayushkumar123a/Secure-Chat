@@ -1,1 +1,8 @@
+# Progress Log - Secure Chat Project
+
+## Day 1
+- Setup repo structure (logs/, screenshots/, docs/)
+- Added `server.py` and `client.py`
+- Verified basic connection between client & server
+- Uploaded test screenshot and chat log
 
