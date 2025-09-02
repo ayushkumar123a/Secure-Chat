@@ -1,5 +1,0 @@
-Connected to server
-Client: hi
-Server: how its going bro
-Client: its going great , and nice to hear from you buddy 
-Server: same here 

@@ -1,5 +1,0 @@
-Client connected: ('127.0.0.1', 63701)
-Client: hi
-Server: how its going bro
-Client: its going great , and nice to hear from you buddy 
-Server: same here 
