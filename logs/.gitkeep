@@ -5,4 +5,9 @@
 - Added `server.py` and `client.py`
 - Verified basic connection between client & server
 - Uploaded test screenshot and chat log
+## Day 2
+- Implemented AES encryption using Fernet.
+- Messages now encrypted end-to-end.
+- Added logging for server and client.
+- Tested secure communication successfully.
 
